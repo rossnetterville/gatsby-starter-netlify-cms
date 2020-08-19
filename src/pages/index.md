@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: A legit new test page
+title: A legit new test site
 image: /img/home-jumbotron.jpg
 heading: Great website with an organge twist
 subheading: A sub-heading worth noting
