@@ -76,6 +76,8 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link>
             </div>
+
+            {/* This is the Github logo, removed it because I don't want it */}
             {/* <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
